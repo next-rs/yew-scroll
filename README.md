@@ -68,7 +68,7 @@ Incorporating this component into your application is easy. Follow these steps:
        }
    }
 
-   // Custom SVG content for the scroll-to-top button (an arrow).
+   // Your custom component.
    #[function_component(MyComponent)]
    pub fn my_component() -> Html {
 
