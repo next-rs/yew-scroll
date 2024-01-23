@@ -42,7 +42,7 @@ Incorporating this component into your application is easy. Follow these steps:
 1. Import the component and its required dependencies:
 
    ```rust
-   use yew-scroll::{ScrollToTop, ScrollToTopProps};
+   use yew_scroll::{ScrollToTop, ScrollToTopProps};
    ```
 
 1. Set up the props for the `ScrollToTop` component:
